@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BushraSheeraz01/Tic-Tac-Game/static/css/main.a617e044.chunk.css",
+    "main.js": "/BushraSheeraz01/Tic-Tac-Game/static/js/main.a00ece3d.chunk.js",
+    "main.js.map": "/BushraSheeraz01/Tic-Tac-Game/static/js/main.a00ece3d.chunk.js.map",
+    "runtime-main.js": "/BushraSheeraz01/Tic-Tac-Game/static/js/runtime-main.14316972.js",
+    "runtime-main.js.map": "/BushraSheeraz01/Tic-Tac-Game/static/js/runtime-main.14316972.js.map",
+    "static/js/2.0a384d5e.chunk.js": "/BushraSheeraz01/Tic-Tac-Game/static/js/2.0a384d5e.chunk.js",
+    "static/js/2.0a384d5e.chunk.js.map": "/BushraSheeraz01/Tic-Tac-Game/static/js/2.0a384d5e.chunk.js.map",
+    "static/js/3.c2d91993.chunk.js": "/BushraSheeraz01/Tic-Tac-Game/static/js/3.c2d91993.chunk.js",
+    "static/js/3.c2d91993.chunk.js.map": "/BushraSheeraz01/Tic-Tac-Game/static/js/3.c2d91993.chunk.js.map",
+    "index.html": "/BushraSheeraz01/Tic-Tac-Game/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/BushraSheeraz01/Tic-Tac-Game/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.0a384d5e.chunk.js.LICENSE.txt": "/BushraSheeraz01/Tic-Tac-Game/static/js/2.0a384d5e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14316972.js",
+    "static/js/2.0a384d5e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.a00ece3d.chunk.js"
+  ]
+}
